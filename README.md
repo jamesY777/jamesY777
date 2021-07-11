@@ -1,0 +1,3 @@
+- Hi, I’m James
+- I’m interested in Machine and Deep Learning, Game programing.
+- I’m currently learning, Tensorflow, Keras, NLP, Unity, C#
